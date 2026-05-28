@@ -56,5 +56,5 @@ This project helps understand employee behavior and supports HR decisions to red
 
 
 
-## 👨‍💻 Author
+##  Author
 Data Science Student | Python & Machine Learning Enthusiast
